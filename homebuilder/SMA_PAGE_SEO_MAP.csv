@@ -1,0 +1,13 @@
+page,primary_intent,primary_topic,primary_keyword,secondary_topics
+index.html,commercial,construction company,construction company Islamabad,residential construction;commercial construction;grey structure;turnkey
+about.html,navigational/entity,SMA Builders,SMA Builders Islamabad,1953;company history;construction experience
+residential-construction.html,transactional,residential construction,house construction company Islamabad,residential builders;house construction;project management
+commercial-construction.html,transactional,commercial construction,commercial construction company Islamabad,commercial builders;project management
+grey-structure-construction.html,commercial+informational,grey structure,grey structure contractor Islamabad,grey structure cost;inclusions;process
+turnkey-construction.html,transactional,turnkey construction,turnkey construction Islamabad,complete house construction;finishing
+renovation-remodeling.html,transactional,renovation,home renovation Islamabad,remodeling;property upgrades
+finishing.html,transactional,finishing,house finishing services Islamabad,interior finishing;exterior finishing
+project.html,navigational/entity,projects,SMA Builders projects Islamabad,Top City;F-6;case studies
+knowledge-center.html,informational,construction guides,construction guides Pakistan,cost;materials;planning;FAQs
+blog.html,informational,construction articles,construction tips Pakistan,construction costs;materials;planning
+contact.html,transactional,contact,construction company Islamabad contact,consultation;project enquiry
